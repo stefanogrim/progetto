@@ -1,0 +1,57 @@
+body{
+background-image: url(background.jpg);
+background-size: cover;
+font-family:'Quicksand', sans-serif;
+}
+
+.contenitore{
+  margin: auto;
+  width: 800px;
+  text-align: center;
+  padding: 30px;
+  background-color: #0000007a;
+}
+
+.logo{
+  width: 200px;
+}
+
+h1{
+  color: lime;
+  margin-bottom: auto;
+}
+
+nav{
+  background-color: lime;
+  padding:10px;
+}
+
+main{
+  padding: 10px;
+  text-align: left;
+  color: white;
+}
+
+h2{
+  display: inline-block;
+  margin-bottom: auto;
+}
+
+p{
+  margin: auto;
+}
+
+.caricagino{
+  background-color: orange;
+  width: 35%;
+}
+
+.caricamike{
+  background-color: lime;
+  width: 60%;
+}
+
+.caricafede{
+  background-color: indianred;
+  width: 15%;
+}
